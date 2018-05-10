@@ -1,0 +1,7 @@
+.jumbotron {
+  text-align: center;
+}
+
+.jumbotron>p {
+  text-transform: uppercase;
+}
